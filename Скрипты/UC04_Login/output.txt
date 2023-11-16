@@ -1,15 +1,36 @@
-Virtual User Script started at: 15.11.2023 0:36:40
+Virtual User Script started at: 16.11.2023 23:34:38
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
 Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
-Runtime Settings file: "C:\LoadRunnerScripts\UC04_Login\\default.cfg"  	[MsgId: MMSG-27141]
+Runtime Settings file: "D:\WebToursLR\Скрипты\UC04_Login\\default.cfg"  	[MsgId: MMSG-27141]
 Ending action vuser_init.
 Running Vuser...
 Starting iteration 1.
 Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
 Starting action Action.
 Action.c(4): Notify: Transaction "UC04_Login" started.
+Action.c(7): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(7): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(8): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(8): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(9): web_remove_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(9): Previous automatically added web header for "Sec-Fetch-Dest" removed  	[MsgId: MMSG-26587]
+Action.c(9): web_remove/revert_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(10): web_remove_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(10): Previous automatically added web header for "Sec-Fetch-Site" removed  	[MsgId: MMSG-26587]
+Action.c(10): web_remove/revert_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(11): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(11): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(12): web_remove_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(12): Previous automatically added web header for "Sec-Fetch-Mode" removed  	[MsgId: MMSG-26587]
+Action.c(12): web_remove/revert_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(13): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(14): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(15): web_add_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(15): web_add_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
 ..\\lib.h(31): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
 ..\\lib.h(31): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
 ..\\lib.h(45): Notify: Transaction "open_web_tours" started.
@@ -24,9 +45,9 @@ Action.c(4): Notify: Transaction "UC04_Login" started.
 ..\\lib.h(49): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
 ..\\lib.h(49): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
 ..\\lib.h(49): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
-..\\lib.h(49): web_url("WebTours") was successful, 10077 body bytes, 2377 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\lib.h(59): Notify: Transaction "open_web_tours" ended with a "Pass" status (Duration: 0.2530 Wasted Time: 0.1306).
-Action.c(10): lr_think_time: 3.00 seconds.
+..\\lib.h(49): web_url("WebTours") was successful, 10076 body bytes, 2377 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\lib.h(59): Notify: Transaction "open_web_tours" ended with a "Pass" status (Duration: 0.2684 Wasted Time: 0.1413).
+Action.c(21): lr_think_time: 3.00 seconds.
 ..\\lib.h(2): Notify: Transaction "login" started.
 ..\\lib.h(4): web_reg_find started  	[MsgId: MMSG-26355]
 ..\\lib.h(4): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
@@ -40,10 +61,24 @@ Action.c(10): lr_think_time: 3.00 seconds.
 ..\\lib.h(9): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
 ..\\lib.h(9): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
 ..\\lib.h(9): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
-..\\lib.h(9): Registered web_reg_find successful for "Text=Welcome, <b>elmask</b>" (count=1)  	[MsgId: MMSG-26364]
-..\\lib.h(9): web_submit_data("login.pl") was successful, 5781 body bytes, 2071 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\lib.h(26): Notify: Transaction "login" ended with a "Pass" status (Duration: 0.1509 Wasted Time: 0.0096).
-Action.c(14): lr_think_time: 3.00 seconds.
+..\\lib.h(9): Registered web_reg_find successful for "Text=Welcome, <b>dartwaider</b>" (count=1)  	[MsgId: MMSG-26364]
+..\\lib.h(9): web_submit_data("login.pl") was successful, 5785 body bytes, 2061 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\lib.h(26): Notify: Transaction "login" ended with a "Pass" status (Duration: 0,1364 Wasted Time: 0,0099).
+Action.c(25): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(25): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(26): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(27): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(27): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(28): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(28): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(29): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(30): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(30): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(31): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(31): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(33): lr_think_time: 3,00 seconds.
 ..\\lib.h(161): Notify: Transaction "log_out" started.
 ..\\lib.h(162): web_reg_find started  	[MsgId: MMSG-26355]
 ..\\lib.h(162): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
@@ -53,9 +88,9 @@ Action.c(14): lr_think_time: 3.00 seconds.
 ..\\lib.h(164): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
 ..\\lib.h(164): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 ..\\lib.h(164): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
-..\\lib.h(164): web_url("SignOff Button") was successful, 2176 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\lib.h(174): Notify: Transaction "log_out" ended with a "Pass" status (Duration: 0,1249 Wasted Time: 0,0067).
-Action.c(18): Notify: Transaction "UC04_Login" ended with a "Pass" status (Duration: 6,6418 Think Time: 6,0118 Wasted Time: 0,1513).
+..\\lib.h(164): web_url("SignOff Button") was successful, 2172 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\lib.h(174): Notify: Transaction "log_out" ended with a "Pass" status (Duration: 0,1479 Wasted Time: 0,0081).
+Action.c(37): Notify: Transaction "UC04_Login" ended with a "Pass" status (Duration: 6,9141 Think Time: 6,0261 Wasted Time: 0,1624).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...
