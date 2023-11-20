@@ -14,13 +14,13 @@ MinValue="1"
 OriginalValue=""
 ParamName="lastName"
 Type="Random"
-[parameter:name]
+[parameter:name1]
 Format="%06lu"
 GenerateNewVal="EachIteration"
 MaxValue="999999"
 MinValue="1"
 OriginalValue=""
-ParamName="name"
+ParamName="name1"
 Type="Random"
 [parameter:password]
 Format="%06lu"

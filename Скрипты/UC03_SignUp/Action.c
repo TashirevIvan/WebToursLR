@@ -1,6 +1,26 @@
 Action()
 {
-
+	char name[10]={0};
+	char newlastName[10]={0};
+	char newfirstName[10]={0};
+	int i, j;
+	
+	for(i = 0; i < 9; i++)
+	{
+		name[i] = rand()%26+'a';
+	}
+	
+		for(j = 0; j < 5; j++)
+	{
+		newlastName[j] = rand()%26+'a';
+		newfirstName[j] = rand()%26+'a';
+	}
+		
+	lr_save_string(name,"name");
+	lr_save_string(newlastName,"newlastName");
+	lr_save_string(newfirstName,"newfirstName");
+	//lr_save_string(pass,"pass");
+	
 	lr_start_transaction("UC03_SignUp");
 
 	web_add_auto_header("Sec-Fetch-Site", "none");
@@ -61,8 +81,8 @@ Action()
 		"Name=username", "Value={name}", ENDITEM, 
 		"Name=password", "Value={password}", ENDITEM, 
 		"Name=passwordConfirm", "Value={password}", ENDITEM, 
-		"Name=firstName", "Value={firstName}", ENDITEM, 
-		"Name=lastName", "Value={lastName}", ENDITEM, 
+		"Name=firstName", "Value={newfirstName}", ENDITEM, 
+		"Name=lastName", "Value={newlastName}", ENDITEM, 
 		"Name=address1", "Value={street}", ENDITEM, 
 		"Name=address2", "Value={town}", ENDITEM, 
 		"Name=register.x", "Value=60", ENDITEM, 
