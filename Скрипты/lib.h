@@ -107,11 +107,12 @@ search_flights() {
 	return 0;
 }
 
-flights() {
+flights(int passengers) {
 	lr_start_transaction("flights");
 
 	web_reg_find("Text/IC=Flight departing from <B>{depart}</B>", LAST);
 
+	lr_save_int(passengers, "numPass");
 
 	/*Correlation comment - Do not change!  Original value='571;57;11/11/2023' Name ='outboundFlight' Type ='ResponseBased'*/
 	web_reg_save_param_attrib(
@@ -141,7 +142,7 @@ flights() {
 		"Name=departDate", "Value={departDate}", ENDITEM,
 		"Name=arrive", "Value={arrive}", ENDITEM,
 		"Name=returnDate", "Value={returnDate}", ENDITEM,
-		"Name=numPassengers", "Value=1", ENDITEM,
+		"Name=numPassengers", "Value={numPass}", ENDITEM,
 		"Name=seatPref", "Value={seatPref}", ENDITEM,
 		"Name=seatType", "Value={seatType}", ENDITEM,
 		"Name=.cgifields", "Value=roundtrip", ENDITEM,
