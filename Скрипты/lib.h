@@ -1,11 +1,17 @@
 login(){
 	lr_start_transaction("login");
 	
-	web_reg_find("Text=User password was correct",LAST);
+	web_add_auto_header("Sec-Fetch-Mode", "navigate");
+	web_add_auto_header("Sec-Fetch-Dest", "frame");
+	web_add_header("Origin", "http://localhost:1080");
+	web_add_auto_header("Sec-Fetch-Site", "same-origin");
+	web_add_auto_header("Sec-Fetch-User", "?1");
+	web_add_auto_header("Upgrade-Insecure-Requests", "1");
+	web_add_auto_header("sec-ch-ua-mobile", "?0");
 	
+	web_reg_find("Text=User password was correct",LAST);
 	web_reg_find("Text/IC=Welcome, <b>{login}</b>",LAST);
 	
-
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
 		"Method=POST",
@@ -44,6 +50,13 @@ correlate_userSession(){
 open_web_tours(){
 	lr_start_transaction("open_web_tours");
 	
+	web_add_auto_header("Sec-Fetch-Site", "none");
+	web_add_auto_header("Sec-Fetch-Dest", "document");
+	web_add_auto_header("Sec-Fetch-Mode", "navigate");
+	web_add_header("Sec-Fetch-User", "?1");
+	web_add_header("Upgrade-Insecure-Requests", "1");
+	web_add_header("sec-ch-ua-mobile", "?0");
+
 	web_reg_find("Text=Welcome to the Web Tours site.",LAST);
 
 	web_url("WebTours", 
@@ -55,6 +68,11 @@ open_web_tours(){
 		"Snapshot=t34.inf", 
 		"Mode=HTML", 
 		LAST);
+
+	web_set_sockets_option("SSL_VERSION", "AUTO");
+	web_revert_auto_header("Sec-Fetch-Dest");
+	web_revert_auto_header("Sec-Fetch-Mode");
+	web_revert_auto_header("Sec-Fetch-Site");
 	
 	lr_end_transaction("open_web_tours",LR_AUTO);
 	return 0;
@@ -62,6 +80,9 @@ open_web_tours(){
 
 click_flights() {
 	lr_start_transaction("click_flights");
+
+	web_revert_auto_header("Sec-Fetch-User");
+	web_revert_auto_header("Upgrade-Insecure-Requests");
 
 	web_reg_find("Text=<b>Find Flight</font></b>", LAST);
 
@@ -82,6 +103,10 @@ click_flights() {
 
 search_flights() {
 	lr_start_transaction("search_flights");
+
+	web_add_auto_header("Origin", "http://localhost:1080");
+	web_add_auto_header("Sec-Fetch-User", "?1");
+	web_add_auto_header("Upgrade-Insecure-Requests", "1");
 
 	web_reg_find("Text=Payment Details", LAST);
 
@@ -109,6 +134,11 @@ search_flights() {
 
 flights(int passengers) {
 	lr_start_transaction("flights");
+
+	web_add_auto_header("Origin", "http://localhost:1080");
+	web_add_auto_header("Sec-Fetch-User", "?1");
+	web_add_auto_header("Upgrade-Insecure-Requests", "1");
+
 
 	web_reg_find("Text/IC=Flight departing from <B>{depart}</B>", LAST);
 
@@ -160,6 +190,10 @@ flights(int passengers) {
 
 log_out(){
 	lr_start_transaction("log_out");
+	
+	web_add_header("Sec-Fetch-User", "?1");
+	web_add_header("Upgrade-Insecure-Requests", "1");
+
 	web_reg_find("Text=Welcome to the Web Tours site.",LAST);
 
 	web_url("SignOff Button", 

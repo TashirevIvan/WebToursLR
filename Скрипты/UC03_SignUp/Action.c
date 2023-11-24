@@ -23,16 +23,6 @@ Action()
 	
 	lr_start_transaction("UC03_SignUp");
 
-	web_add_auto_header("Sec-Fetch-Site", "none");
-	web_add_auto_header("Sec-Fetch-Dest", "document");
-	web_revert_auto_header("Sec-Fetch-Dest");
-	web_revert_auto_header("Sec-Fetch-Site");
-	web_add_auto_header("Sec-Fetch-Mode", "navigate");
-	web_revert_auto_header("Sec-Fetch-Mode");
-	web_add_header("Sec-Fetch-User", "?1");
-	web_add_header("Upgrade-Insecure-Requests", "1");
-	web_add_header("sec-ch-ua-mobile", "?0");
-
 	open_web_tours();
 	
 	lr_think_time(3);
@@ -124,9 +114,6 @@ Action()
 	if (atoi(lr_eval_string("{randForExit}"))==1){
 		log_out();
 	}
-	
-	web_add_header("Sec-Fetch-User","?1");
-	web_add_header("Upgrade-Insecure-Requests", "1");
 	
 	log_out();
 	
