@@ -1,0 +1,77 @@
+﻿[Workspace]
+SessionStartTime=0
+SessionEndTime=6721
+VerNo=13
+IsSummaryData=1
+TimeFormat=0
+SesLang=RUS
+ABuild=0
+DataBaseName=sear333087026DB
+DBType=1
+CurrServer=DESKTOP-G6VNCF4
+CurrUser=sa
+CurrPswd===
+StorageLoc=\\DESKTOP-G6VNCF4\Data\
+PhStorageLoc=C:\MSSQL7\Data
+LocStorageLoc=
+LocPhStorageLoc=
+WinIntSec=0
+UseNetworkMode=0
+UseParallel=1
+UseManagedIndexes=1
+UseSpecMSSQLParams=1
+NumResults=1
+
+[Data Config]
+CollectionMode=1
+IngnoreFlds=Vuser ID
+IngnoreUIFlds=VuserID
+AggSecGran=1
+TransAgg=1
+DataPointAgg=1
+WebAgg=1
+MonAgg=0
+ErrAgg=0
+FilterEdge=0
+FSartTime=0
+FEndTime=0
+
+[Result0]
+LRRID=
+ResultPath=d:\WebToursLR\Results\searchmaxresults\searchmaxresults.lrr
+ResultTDPath=
+NumFilters=1
+ScenarioTimeZone=-10800
+DaylightSavingSecsAddition=0
+ScenarioStartTime=1701278492
+ScenarioEndTime=1701285213
+ResInSD=1
+WebGran=5
+FilterEdge=0
+FSartTime=0
+FEndTime=0
+TDTestID=-1
+TDRunID=-1
+IsProTuneResult=0
+GraphScale=0
+Scenario Type=Manual
+Schedule Name=Schedule 1
+Mode=Scenario Scheduling
+Load Behavior=Initialize each Vuser just before it runs
+Scenario Duration=Start 10 Vusers: 1 every 00:00:01 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:01 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:01 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:01 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:01 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:01 (HH:MM:SS)
+NumGraphs=13
+
+[Result0_GLOBALFILTER0]
+DimensionType=Continuous
+InternalDimName=End Time
+Dimension=Scenario Elapsed Time
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=1
+DimCount=2
+Dim_0=2664.000000
+Dim_1=3864.000000
+
+[DimensionFunctions]
+DimeFuncCount=0
+

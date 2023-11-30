@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=D:\WebToursLR\Scenario\SearchMaxTest.lrs
+Completed=0

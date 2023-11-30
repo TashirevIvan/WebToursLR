@@ -1,0 +1,1626 @@
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/29/2023\n
+..\\lib.h(230):      :  8am : Flight 650 leaves San Francisco  for Portland.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="38" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41182229-29245-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Novirgad<br/>\n
+..\\lib.h(230):               Hidden street<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 187 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/29/2023\n
+..\\lib.h(230):      :  8am : Flight 920 leaves Zurich  for London.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="39" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41161861-30038-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Dart Waider\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Default City 1<br/>\n
+..\\lib.h(230):               Centralniy 123<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 506 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 370 leaves Los Angeles  for Seattle.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="40" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4116685-307771-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Elon Mask\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Los Angeles<br/>\n
+..\\lib.h(230):               Zvezda smerti<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1030 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 50 leaves Denver  for Portland.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="41" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="411766-315-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Naruto Uzumaki      <li><i>Dart Waider\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Default City 1<br/>\n
+..\\lib.h(230):               Gagarina 23<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 0 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 770 leaves Seattle  for Seattle.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="42" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="411848-323-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Boloto<br/>\n
+..\\lib.h(230):               Holywood street<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 0 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 990 leaves Zurich  for Zurich.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="43" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41183729-330877-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Harry Potter\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Novirgad<br/>\n
+..\\lib.h(230):               Hidden street<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1410 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 960 leaves Zurich  for San Francisco.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="44" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="411785285-339084-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Harry DuBois      <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               San Francisco<br/>\n
+..\\lib.h(230):               Tisovaia street 12<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 8103 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 820 leaves Sydney  for London.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="45" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41164090-346254-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Jojo Bean      <li><i>Kventin Tarrantino\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Default City 1<br/>\n
+..\\lib.h(230):               Zvezda smerti<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1314 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 430 leaves Paris  for Los Angeles.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="46" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4114-353-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Geralt ofRivia      <li><i>Shrek Ogr\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nabu<br/>\n
+..\\lib.h(230):               Holywood street<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 0 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 0 leaves Denver  for Denver.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="47" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="411785285-362161-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Dart Waider      <li><i>Shrek Ogr\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <
+..\\lib.h(230): t=1218119ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     1000\r\n
+..\\lib.h(230): t=1218119ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     1000\r\n
+..\\lib.h(230): t=1218119ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     1000\r\n
+..\\lib.h(230): t=1218119ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nizhniy Novgorod<br/>\n
+..\\lib.h(230):               Gagarina 23<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 8103 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 820 leaves Sydney  for London.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="48" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41153720-36958-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Novirgad<br/>\n
+..\\lib.h(230):               Silicon street 1<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 464 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 150 leaves Frankfurt  for Portland.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="49" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="411548232-377450-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Jojo Bean      <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Los Angeles<br/>\n
+..\\lib.h(230):               Novigradskaya Street 2<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 6861 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 180 leaves Frankfurt  for Sydney.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="50" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41155198-384701-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Ivan Tashirev      <li><i>Naruto Uzumaki\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nizhniy Novgorod<br/>\n
+..\\lib.h(230):               Gagarina 23<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1113 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 190 leaves Frankfurt  for Zurich.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="51" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4116315-39269-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Default City 1<br/>\n
+..\\lib.h(230):               Holywood street<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 508 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 40 leaves Denver  for Paris.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="52" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41166301-40011-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Boloto<br/>\n
+..\\lib.h(230):               Novigradskaya Street 2<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 143 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 490 leaves Paris  for Zurich.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="53" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41177066-40830-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Los Angeles<br/>\n
+..\\lib.h(230):               Gagarina 23<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 801 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 780 leaves Seattle  for Sydney.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="54" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41169263-41547-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nizhniy Novgorod<br/>\n
+..\\lib.h(230):               Forest st<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 121 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 570 leaves Portland  for Seattle.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="55" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4115943-42380-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Harry DuBois\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Konoha<br/>\n
+..\\lib.h(230):               Holywood street<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 944 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 30 leaves Denver  for Los Angeles.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="56" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4117044-43092-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Boloto<br/>\n
+..\\lib.h(230):               Novigradskaya Street 2<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 202 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 60 leaves Denver  for San Francisco.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="57" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41152985-438602-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Harry Potter      <li><i>Shrek Ogr\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Boloto<br/>\n
+..\\lib.h(230):               Holywood street<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1830 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 130 leaves Frankfurt  for Los Angeles.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="58" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4117044-44646-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Harry Potter\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD w
+..\\lib.h(230): t=1218127ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     1000\r\n
+..\\lib.h(230): t=1218127ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     1000\r\n
+..\\lib.h(230): t=1218127ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     1000\r\n
+..\\lib.h(230): t=1218127ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     idth="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nizhniy Novgorod<br/>\n
+..\\lib.h(230):               Zvezda smerti<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 404 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 60 leaves Denver  for San Francisco.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="59" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="411785238-453957-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nizhniy Novgorod<br/>\n
+..\\lib.h(230):               Novigradskaya Street 2<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1441 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 820 leaves Sydney  for London.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="60" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41159641-46229-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Naruto Uzumaki      <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               San Francisco<br/>\n
+..\\lib.h(230):               Silicon street 1<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 984 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 310 leaves Los Angeles  for Frankfurt.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="61" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41148545-469342-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Default City 1<br/>\n
+..\\lib.h(230):               Novigradskaya Street 2<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1446 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="62" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="411792645-477032-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nizhniy Novgorod<br/>\n
+..\\lib.h(230):               Centralniy 123<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1428 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 840 leaves Sydney  for Paris.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="63" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4115568-48487-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Konoha<br/>\n
+..\\lib.h(230):               Martinez 29<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 338 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 20 leaves Denver  for London.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="64" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41163338-49250-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Naruto Uzumaki\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Hogwarts<br/>\n
+..\\lib.h(230):               Novigradskaya Street 2<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 256 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 410 leaves Paris  for Frankfurt.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="65" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="411848-500-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nabu<br/>\n
+..\\lib.h(230):               Novigradskaya Street 2<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 0 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 990 leaves Zurich  for Zurich.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="66" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4115573-50807-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Boloto<br/>\n
+..\\lib.h(230):               Centralniy 123<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 491 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 20 leaves Denver  for London.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="67" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4116309-51565-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               San Francisco<br/>\n
+..\\lib.h(230):               Gagarina 23<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 350 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 40 leaves Denver  for Paris.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="68" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="4117594-52322-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Geralt ofRivia      <li><i>Kventin Tarrantino\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Boloto<br/>\n
+..\\lib.h(230):               Tisovaia street 12<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 192 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 750 leaves Seattle  for Portland.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="69" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41150384-53106-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>
+..\\lib.h(230): t=1218133ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     1000\r\n
+..\\lib.h(230): t=1218133ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     b4e\r\n
+..\\lib.h(230): t=1218133ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     \r\n
+..\\lib.h(230):     0\r\n
+..\\lib.h(230):     \r\n
+..\\lib.h(230): t=1218133ms: 7138-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=927)
+..\\lib.h(230):     .<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Konoha<br/>\n
+..\\lib.h(230):               Zvezda smerti<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 379 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 060 leaves Denver  for San Francisco.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="70" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41159276-53918-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Ivan Tashirev\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               San Francisco<br/>\n
+..\\lib.h(230):               Martinez 29<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 944 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 300 leaves Los Angeles  for Denver.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <!-- Flight #1 -->\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib.h(230):     <b>\n
+..\\lib.h(230):     <label><input type="checkbox" name="71" value="on" /></label></font></b>\n
+..\\lib.h(230):     <input type="hidden" name="flightID" value="41150014-546245-Go"  />\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="45%" valign="top">\n
+..\\lib.h(230):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\lib.h(230):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib.h(230):           <li><i>Geralt ofRivia      <li><i>Dart Waider      <li><i>Ivan Tashirev\n
+..\\lib.h(230):           <li><i></i>\n
+..\\lib.h(230):           </td></tr></table></center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib.h(230):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib.h(230):           <center>\n
+..\\lib.h(230):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib.h(230):               Geralt ofRivia\n
+..\\lib.h(230):     <br/>\n
+..\\lib.h(230):               Nizhniy Novgorod<br/>\n
+..\\lib.h(230):               Centralniy 123<br/>\n
+..\\lib.h(230):               <br/>\n
+..\\lib.h(230):               Total Charge: $ 1194 <BR/> (CC: x-1111)\n
+..\\lib.h(230):           </td> </tr> </table>\n
+..\\lib.h(230):           </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="3">\n
+..\\lib.h(230):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib.h(230):       11/30/2023\n
+..\\lib.h(230):      :  8am : Flight 050 leaves Denver  for Portland.<br>  </center>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TR bgcolor="#EFF2F7">\n
+..\\lib.h(230):       <TD COLSPAN="4">\n
+..\\lib.h(230):       <hr/>\n
+..\\lib.h(230):       </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     <TR>\n
+..\\lib.h(230):        <TD align="center" COLSPAN="4">\n
+..\\lib.h(230):        <b>A total of 71 scheduled flights.</font></b>\n
+..\\lib.h(230):        </TD>\n
+..\\lib.h(230):     </TR>\n
+..\\lib.h(230):     </TABLE>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+..\\lib.h(230):     <TR>\n
+..\\lib.h(230):     <TD align="left" width="50%" >\n
+..\\lib.h(230):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+..\\lib.h(230):     er="0" /></TD>\n
+..\\lib.h(230):     <TD align="right" width="50%" >\n
+..\\lib.h(230):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+..\\lib.h(230):     f" border="0" /></TD>\n
+..\\lib.h(230):     </TABLE>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     <div><input type="hidden" name=".cgifields" value="33"  /><input type="hidden" name=".cgif
+..\\lib.h(230):     ields" value="32"  /><input type="hidden" name=".cgifields" value="63"  /><input type="hid
+..\\lib.h(230):     den" name=".cgifields" value="21"  /><input type="hidden" name=".cgifields" value="71"  />
+..\\lib.h(230):     <input type="hidden" name=".cgifields" value="7"  /><input type="hidden" name=".cgifields"
+..\\lib.h(230):      value="26"  /><input type="hidden" name=".cgifields" value="18"  /><input type="hidden" n
+..\\lib.h(230):     ame=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value="44"  /><input
+..\\lib.h(230):      type="hidden" name=".cgifields" value="55"  /><input type="hidden" name=".cgifields" valu
+..\\lib.h(230):     e="27"  /><input type="hidden" name=".cgifields" value="57"  /><input type="hidden" name="
+..\\lib.h(230):     .cgifields" value="61"  /><input type="hidden" name=".cgifields" value="20"  /><input type
+..\\lib.h(230):     ="hidden" name=".cgifields" value="10"  /><input type="hidden" name=".cgifields" value="31
+..\\lib.h(230):     "  /><input type="hidden" name=".cgifields" value="35"  /><input type="hidden" name=".cgif
+..\\lib.h(230):     ields" value="11"  /><input type="hidden" name=".cgifields" value="48"  /><input type="hid
+..\\lib.h(230):     den" name=".cgifields" value="65"  /><input type="hidden" name=".cgifields" value="29"  />
+..\\lib.h(230):     <input type="hidden" name=".cgifields" value="50"  /><input type="hidden" name=".cgifields
+..\\lib.h(230):     " value="39"  /><input type="hidden" name=".cgifields" value="64"  /><input type="hidden" 
+..\\lib.h(230):     name=".cgifields" value="58"  /><input type="hidden" name=".cgifields" value="41"  /><inpu
+..\\lib.h(230):     t type="hidden" name=".cgifields" value="12"  /><input type="hidden" name=".cgifields" val
+..\\lib.h(230):     ue="15"  /><input type="hidden" name=".cgifields" value="52"  /><input type="hidden" name=
+..\\lib.h(230):     ".cgifields" value="60"  /><input type="hidden" name=".cgifields" value="56"  /><input typ
+..\\lib.h(230):     e="hidden" name=".cgifields" value="66"  /><input type="hidden" name=".cgifields" value="4
+..\\lib.h(230):     5"  /><input type="hidden" name=".cgifields" value="19"  /><input type="hidden" name=".cgi
+..\\lib.h(230):     fields" value="62"  /><input type="hidden" name=".cgifields" value="54"  /><input type="hi
+..\\lib.h(230):     dden" name=".cgifields" value="67"  /><input type="hidden" name=".cgifields" value="70"  /
+..\\lib.h(230):     ><input type="hidden" name=".cgifields" value="68"  /><input type="hidden" name=".cgifield
+..\\lib.h(230):     s" value="2"  /><input type="hidden" name=".cgifields" value="17"  /><input type="hidden" 
+..\\lib.h(230):     name=".cgifields" value="1"  /><input type="hidden" name=".cgifields" value="30"  /><input
+..\\lib.h(230):      type="hidden" name=".cgifields" value="25"  /><input type="hidden" name=".cgifields" valu
+..\\lib.h(230):     e="28"  /><input type="hidden" name=".cgifields" value="40"  /><input type="hidden" name="
+..\\lib.h(230):     .cgifields" value="14"  /><input type="hidden" name=".cgifields" value="69"  /><input type
+..\\lib.h(230):     ="hidden" name=".cgifields" value="59"  /><input type="hidden" name=".cgifields" value="49
+..\\lib.h(230):     "  /><input type="hidden" name=".cgifields" value="24"  /><input type="hidden" name=".cgif
+..\\lib.h(230):     ields" value="53"  /><input type="hidden" name=".cgifields" value="22"  /><input type="hid
+..\\lib.h(230):     den" name=".cgifields" value="42"  /><input type="hidden" name=".cgifields" value="46"  />
+..\\lib.h(230):     <input type="hidden" name=".cgifields" value="23"  /><input type="hidden" name=".cgifields
+..\\lib.h(230):     " value="13"  /><input type="hidden" name=".cgifields" value="6"  /><input type="hidden" n
+..\\lib.h(230):     ame=".cgifields" value="3"  /><input type="hidden" name=".cgifields" value="36"  /><input 
+..\\lib.h(230):     type="hidden" name=".cgifields" value="9"  /><input type="hidden" name=".cgifields" value=
+..\\lib.h(230):     "51"  /><input type="hidden" name=".cgifields" value="47"  /><input type="hidden" name=".c
+..\\lib.h(230):     gifields" value="8"  /><input type="hidden" name=".cgifields" value="38"  /><input type="h
+..\\lib.h(230):     idden" name=".cgifields" value="4"  /><input type="hidden" name=".cgifields" value="34"  /
+..\\lib.h(230):     ><input type="hidden" name=".cgifields" value="37"  /><input type="hidden" name=".cgifield
+..\\lib.h(230):     s" value="43"  /><input type="hidden" name=".cgifields" value="5"  /></div></form>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     </center>\n
+..\\lib.h(230):     \n
+..\\lib.h(230):     </body>\n
+..\\lib.h(230):     </html>
+..\\lib.h(230): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\lib.h(230): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\lib.h(230): t=1218135ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+..\\lib.h(230): Notify: Saving Parameter "f = "4118177-829-Go"  ".	[MsgId: MMSG-13798]
+..\\lib.h(230): t=1218135ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib.h(230): t=1218135ms: 689-byte request headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=929)
+..\\lib.h(230):     GET /WebTours/images/cancelreservation.gif HTTP/1.1\r\n
+..\\lib.h(230):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\lib.h(230):     Origin: http://localhost:1080\r\n
+..\\lib.h(230):     Sec-Fetch-Mode: navigate\r\n
+..\\lib.h(230):     Sec-Fetch-Dest: frame\r\n
+..\\lib.h(230):     Sec-Fetch-Site: same-origin\r\n
+..\\lib.h(230):     sec-ch-ua-mobile: ?0\r\n
+..\\lib.h(230):     Sec-Fetch-User: ?1\r\n
+..\\lib.h(230):     Upgrade-Insecure-Requests: 1\r\n
+..\\lib.h(230):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+..\\lib.h(230):     o) Chrome/102.0.5005.63 Safari/537.36\r\n
+..\\lib.h(230):     Accept-Encoding: gzip, deflate\r\n
+..\\lib.h(230):     Accept-Language: ru-RU\r\n
+..\\lib.h(230):     Accept: */*\r\n
+..\\lib.h(230):     Connection: Keep-Alive\r\n
+..\\lib.h(230):     Host: localhost:1080\r\n
+..\\lib.h(230):     Cookie: MSO=SID&1701258663; MTUserInfo=firstName&Geralt&username&geralt&address2&Novirgad&
+..\\lib.h(230):     hash&116&address1&Novigradskaya%20Street%202&lastName&ofRivia%0A\r\n
+..\\lib.h(230):     \r\n
+..\\lib.h(230): t=1218136ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib.h(230): t=1218136ms: 693-byte request headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=930)
+..\\lib.h(230):     GET /WebTours/images/cancelallreservations.gif HTTP/1.1\r\n
+..\\lib.h(230):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\lib.h(230):     Origin: http://localhost:1080\r\n
+..\\lib.h(230):     Sec-Fetch-Mode: navigate\r\n
+..\\lib.h(230):     Sec-Fetch-Dest: frame\r\n
+..\\lib.h(230):     Sec-Fetch-Site: same-origin\r\n
+..\\lib.h(230):     sec-ch-ua-mobile: ?0\r\n
+..\\lib.h(230):     Sec-Fetch-User: ?1\r\n
+..\\lib.h(230):     Upgrade-Insecure-Requests: 1\r\n
+..\\lib.h(230):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+..\\lib.h(230):     o) Chrome/102.0.5005.63 Safari/537.36\r\n
+..\\lib.h(230):     Accept-Encoding: gzip, deflate\r\n
+..\\lib.h(230):     Accept-Language: ru-RU\r\n
+..\\lib.h(230):     Accept: */*\r\n
+..\\lib.h(230):     Connection: Keep-Alive\r\n
+..\\lib.h(230):     Host: localhost:1080\r\n
+..\\lib.h(230):     Cookie: MSO=SID&1701258663; MTUserInfo=firstName&Geralt&username&geralt&address2&Novirgad&
+..\\lib.h(230):     hash&116&address1&Novigradskaya%20Street%202&lastName&ofRivia%0A\r\n
+..\\lib.h(230):     \r\n
+..\\lib.h(230): t=1218137ms: 298-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=929)
+..\\lib.h(230):     HTTP/1.1 200 OK\r\n
+..\\lib.h(230):     Date: Wed, 29 Nov 2023 11:51:24 GMT\r\n
+..\\lib.h(230):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib.h(230):     Last-Modified: Tue, 07 Nov 2023 11:36:44 GMT\r\n
+..\\lib.h(230):     ETag: "120000000381bf-33f-6098e6298be54"\r\n
+..\\lib.h(230):     Accept-Ranges: bytes\r\n
+..\\lib.h(230):     Content-Length: 831\r\n
+..\\lib.h(230):     Keep-Alive: timeout=5, max=92\r\n
+..\\lib.h(230):     Connection: Keep-Alive\r\n
+..\\lib.h(230):     Content-Type: image/gif\r\n
+..\\lib.h(230):     \r\n
+..\\lib.h(230): t=1218137ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=929)
+..\\lib.h(230): t=1218137ms: Request done "http://localhost:1080/WebTours/images/cancelreservation.gif"  	[MsgId: MMSG-26000]
+..\\lib.h(230): t=1218137ms: 298-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=930)
+..\\lib.h(230):     HTTP/1.1 200 OK\r\n
+..\\lib.h(230):     Date: Wed, 29 Nov 2023 11:51:24 GMT\r\n
+..\\lib.h(230):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib.h(230):     Last-Modified: Tue, 07 Nov 2023 11:36:44 GMT\r\n
+..\\lib.h(230):     ETag: "1900000003803e-2e6-6098e62984456"\r\n
+..\\lib.h(230):     Accept-Ranges: bytes\r\n
+..\\lib.h(230):     Content-Length: 742\r\n
+..\\lib.h(230):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib.h(230):     Connection: Keep-Alive\r\n
+..\\lib.h(230):     Content-Type: image/gif\r\n
+..\\lib.h(230):     \r\n
+..\\lib.h(230): t=1218138ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=930)
+..\\lib.h(230): t=1218138ms: Request done "http://localhost:1080/WebTours/images/cancelallreservations.gif"  	[MsgId: MMSG-26000]
+..\\lib.h(230): Registered web_reg_find successful for "Text=Since user has already logged on" (count=1)  	[MsgId: MMSG-26364]
+..\\lib.h(230): web_url("Itinerary Button") was successful, 89069 body bytes, 1620 header bytes, 195 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\lib.h(240): Notify: Transaction "itinerary" ended with a "Pass" status (Duration: 0,2092 Wasted Time: 0,0006).	[MsgId: MMSG-16871]
+Action.c(138): Notify: Transaction "UC01_BuyTicket" ended with a "Pass" status (Duration: 20,8006 Think Time: 20,0387 Wasted Time: 0,0022).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1218138ms: Closed connection [0] to localhost:1080 after completing 9 request(s)  	[MsgId: MMSG-26000]
+t=1218139ms: Closed connection [1] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=1218139ms: Closed connection [2] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=15, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 1 (thread 19852), ended OK."	[MsgId: MMSG-10695]

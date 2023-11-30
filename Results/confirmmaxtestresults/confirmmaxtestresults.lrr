@@ -1,0 +1,51 @@
+[Scenario]
+Product=LoadRunner Controller
+Version=2020.0.0.0
+Path=D:\WebToursLR\Scenario\ConfirmMaxTest.lrs
+Subject=StressTest
+Result_file=d:\webtourslr\results\confirmmaxtestresults\confirmmaxtestresults.lrr
+Description=
+ResultName=ConfirmMaxTestResults
+Time_Zone=-10800
+Start_time=1701293797
+Daylight_Bias=0
+Stop_time=1701297814
+
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+
+[Data Collection]
+FullData=1
+SummaryEnded=1
+
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 30 Vusers: 1 every 00:00:05 (HH:MM:SS); Run for 01:02:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:05 (HH:MM:SS)
+Load Behavior=Initialize each Vuser just before it runs
+Global Schedule=ST30_1E5;R3720;SP30_1E5;
+
+[Scripts]
+UC01_BuyTicket=D:\WebToursLR\Scripts\UC01_BuyTicket\UC01_BuyTicket.usr
+UC03_SignUp=D:\WebToursLR\Scripts\UC03_SignUp\UC03_SignUp.usr
+UC04_Login=D:\WebToursLR\Scripts\UC04_Login\UC04_Login.usr
+UC06_SearchFlights=D:\WebToursLR\Scripts\UC06_SearchFlights\UC06_SearchFlights.usr
+UC02_DeleteTicket=D:\WebToursLR\Scripts\UC02_DeleteTicket\UC02_DeleteTicket.usr
+UC05_Itinerary=D:\WebToursLR\Scripts\UC05_Itinerary\UC05_Itinerary.usr
+
+[Scripts_types]
+UC01_BuyTicket=Multi+QTWeb
+UC03_SignUp=Multi+QTWeb
+UC04_Login=Multi+QTWeb
+UC06_SearchFlights=Multi+QTWeb
+UC02_DeleteTicket=Multi+QTWeb
+UC05_Itinerary=Multi+QTWeb
+

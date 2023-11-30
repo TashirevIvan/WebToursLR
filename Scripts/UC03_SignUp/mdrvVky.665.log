@@ -1,0 +1,178 @@
+..\\lib.h(199):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib.h(199):     Set-Cookie: MSO=SID&1701174068; path=/\r\n
+..\\lib.h(199):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 27-Nov-2023 12:21:08 GMT\r\n
+..\\lib.h(199):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib.h(199):     Connection: Keep-Alive\r\n
+..\\lib.h(199):     Transfer-Encoding: chunked\r\n
+..\\lib.h(199):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib.h(199):     \r\n
+..\\lib.h(199): t=1256828ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=424)
+..\\lib.h(199):     2ae\r\n
+..\\lib.h(199): t=1256828ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=424)
+..\\lib.h(199):     \r\n
+..\\lib.h(199): t=1256828ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=424)
+..\\lib.h(199):     <!-- \n
+..\\lib.h(199):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\lib.h(199):      Also, the server options have been loaded into the cookie called\n
+..\\lib.h(199):      MSO as well.  The server options can be set via the Admin page.\n
+..\\lib.h(199):      --->\n
+..\\lib.h(199):     \n
+..\\lib.h(199):     <html>\n
+..\\lib.h(199):     <title>Web Tours</title>\n
+..\\lib.h(199):        <!-- Frame Set -->\n
+..\\lib.h(199):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\lib.h(199):           <!-- Navigation Frame -->\n
+..\\lib.h(199):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\lib.h(199):                 noresize="noresize" scrolling="auto"/>\n
+..\\lib.h(199):           <!-- Home Frame -->\n
+..\\lib.h(199):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\lib.h(199):                 noresize="noresize" scrolling="auto"/>\n
+..\\lib.h(199):        </frameset>\n
+..\\lib.h(199):     </html>\n
+..\\lib.h(199):     \n
+..\\lib.h(199):     </body>\n
+..\\lib.h(199):     </html>
+..\\lib.h(199): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\lib.h(199): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\lib.h(199): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+..\\lib.h(199): t=1256829ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=426)
+..\\lib.h(199):     <HTML>\n
+..\\lib.h(199):     <HEAD>\n
+..\\lib.h(199):     \t<title>Web Tours</title>\n
+..\\lib.h(199):     </HEAD>\n
+..\\lib.h(199):     <style>\n
+..\\lib.h(199):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib.h(199):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\lib.h(199):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib.h(199):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib.h(199):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib.h(199):     N: none}\n
+..\\lib.h(199):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib.h(199):     CORATION: underline}\n
+..\\lib.h(199):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib.h(199):     </style>\n
+..\\lib.h(199):     <body bgcolor="#e0e7f1">\n
+..\\lib.h(199):     <BR/>\n
+..\\lib.h(199):     <BR/>\n
+..\\lib.h(199):     <BR/>\n
+..\\lib.h(199):     <br/>\n
+..\\lib.h(199):     <table border="0">\n
+..\\lib.h(199):     <tr><td></td></tr>\n
+..\\lib.h(199):     <TR><TD></TD></TR>\n
+..\\lib.h(199):     <TR><TD>\n
+..\\lib.h(199):     <blockquote>\n
+..\\lib.h(199):     <H1><b>Web Tours</b></H1>\n
+..\\lib.h(199):     Welcome to the Web Tours site.\n
+..\\lib.h(199):     <br/>\n
+..\\lib.h(199):     To make reservations,please enter your account information to the left.\n
+..\\lib.h(199):     <br/>\n
+..\\lib.h(199):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\lib.h(199):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\lib.h(199):     <br/>\n
+..\\lib.h(199):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\lib.h(199):     tration</b></A> link.\n
+..\\lib.h(199):     <br/><br/><br/><br/><br/><br/>\n
+..\\lib.h(199):     <br/><small>\n
+..\\lib.h(199):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\lib.h(199):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\lib.h(199):     </small>\n
+..\\lib.h(199):     </blockquote></TD>\n
+..\\lib.h(199):     <TD></TD></TR>\n
+..\\lib.h(199):     </table>\n
+..\\lib.h(199):     </body>\n
+..\\lib.h(199):     </HTML>\n
+..\\lib.h(199): t=1256830ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=424)
+..\\lib.h(199):     0\r\n
+..\\lib.h(199):     \r\n
+..\\lib.h(199): t=1256830ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26000]
+..\\lib.h(199): t=1256830ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib.h(199): t=1256830ms: 377-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=425)
+..\\lib.h(199):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\lib.h(199):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1\r\n
+..\\lib.h(199):     Sec-Fetch-User: ?1\r\n
+..\\lib.h(199):     Upgrade-Insecure-Requests: 1\r\n
+..\\lib.h(199):     User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko\r\n
+..\\lib.h(199):     Accept-Encoding: gzip, deflate\r\n
+..\\lib.h(199):     Accept-Language: ru-RU\r\n
+..\\lib.h(199):     Accept: */*\r\n
+..\\lib.h(199):     Connection: Keep-Alive\r\n
+..\\lib.h(199):     Host: localhost:1080\r\n
+..\\lib.h(199):     Cookie: MSO=SID&1701174068\r\n
+..\\lib.h(199):     \r\n
+..\\lib.h(199): t=1256875ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=425)
+..\\lib.h(199):     HTTP/1.1 200 OK\r\n
+..\\lib.h(199):     Date: Tue, 28 Nov 2023 12:21:08 GMT\r\n
+..\\lib.h(199):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib.h(199):     Expires: Mon, 27 Nov 2023 12:21:08 GMT\r\n
+..\\lib.h(199):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib.h(199):     Connection: Keep-Alive\r\n
+..\\lib.h(199):     Transfer-Encoding: chunked\r\n
+..\\lib.h(199):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib.h(199):     \r\n
+..\\lib.h(199): t=1256875ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=425)
+..\\lib.h(199):     5d0\r\n
+..\\lib.h(199): t=1256876ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=425)
+..\\lib.h(199):     \r\n
+..\\lib.h(199): t=1256876ms: 1488-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=425)
+..\\lib.h(199):     <!DOCTYPE html\n
+..\\lib.h(199):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib.h(199):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib.h(199):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib.h(199):     <head>\n
+..\\lib.h(199):     <title>Web Tours Navigation Bar</title>\n
+..\\lib.h(199):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib.h(199):     </head>\n
+..\\lib.h(199):     <body bgcolor="#E0E7F1">\n
+..\\lib.h(199):     <style>\n
+..\\lib.h(199):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib.h(199):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib.h(199):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib.h(199):     small {font-family: tahoma; font-size : 8pt}\n
+..\\lib.h(199):     </style>\n
+..\\lib.h(199):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\lib.h(199):     <input type="hidden" name="userSession" value="137802.678655326HAiiccfpciDDDDDDtcfcQpDfVH"
+..\\lib.h(199):     />\n
+..\\lib.h(199):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\lib.h(199):     <td>&nbsp;</td></tr>\n
+..\\lib.h(199):     <tr><td>&nbsp;</td>\n
+..\\lib.h(199):     <td>&nbsp;</td></tr>\n
+..\\lib.h(199):     <tr><td>&nbsp;</td>\n
+..\\lib.h(199):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\lib.h(199):     <tr><td>&nbsp;</td>\n
+..\\lib.h(199):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\lib.h(199):     <tr><td>&nbsp;</td>\n
+..\\lib.h(199):     <td><small>&nbsp;Password</small></td>\n
+..\\lib.h(199):     <tr><td>&nbsp;</td>\n
+..\\lib.h(199):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\lib.h(199):     <tr><td>&nbsp;</td>\n
+..\\lib.h(199):     <td>&nbsp;</td></tr>\n
+..\\lib.h(199):     <tr><td>&nbsp;</td>\n
+..\\lib.h(199):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\lib.h(199):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\lib.h(199):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\lib.h(199):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\lib.h(199):     </form>\n
+..\\lib.h(199):     \n
+..\\lib.h(199):     </body>\n
+..\\lib.h(199):     </html>\n
+..\\lib.h(199): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib.h(199): t=1256878ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=425)
+..\\lib.h(199):     0\r\n
+..\\lib.h(199):     \r\n
+..\\lib.h(199): t=1256878ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+..\\lib.h(199): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+..\\lib.h(199): web_url("SignOff Button") was successful, 2174 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\lib.h(209): Notify: Transaction "log_out" ended with a "Pass" status (Duration: 0,0976 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(108): Notify: Transaction "UC03_SignUp" ended with a "Pass" status (Duration: 20,5317 Think Time: 20,0317 Wasted Time: 0,0002).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 17.	[MsgId: MMSG-15965]
+Waiting 54,4670 seconds for iteration pacing.	[MsgId: MMSG-15996]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1290467ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+t=1290467ms: Closed connection [1] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 1 (thread 17452), ended OK."	[MsgId: MMSG-10695]

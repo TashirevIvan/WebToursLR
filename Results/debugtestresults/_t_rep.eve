@@ -1,0 +1,53 @@
+28 11 1701257466 2 202965352 -903200915 1699548
+28 4 UC01_BuyTicket 1 1701257466 0 UC01_BuyTicket localhost 0 1
+28 10 localhost 28 0 0
+28 0 UC01_BuyTicket 1 1701257466 0 localhost 0
+28 8 UC01_BuyTicket 1  0 0
+28 2 UC01_BuyTicket 1 1701257466 0 p 0 0
+28 4 UC03_SignUp 1 1701257467 0 UC03_SignUp localhost 0 1
+28 0 UC03_SignUp 1 1701257467 0 localhost 0
+28 8 UC03_SignUp 1  0 0
+28 2 UC03_SignUp 1 1701257467 0 p 0 0
+28 4 UC04_Login 1 1701257468 0 UC04_Login localhost 0 1
+28 0 UC04_Login 1 1701257468 0 localhost 0
+28 8 UC04_Login 1  0 0
+28 2 UC04_Login 1 1701257468 0 p 0 0
+28 4 UC06_SearchFlights 1 1701257469 0 UC06_SearchFlights localhost 0 1
+28 0 UC06_SearchFlights 1 1701257469 0 localhost 0
+28 8 UC06_SearchFlights 1  0 0
+28 2 UC06_SearchFlights 1 1701257469 0 p 0 0
+28 4 UC02_DeleteTicket 1 1701257470 0 UC02_DeleteTicket localhost 0 1
+28 0 UC02_DeleteTicket 1 1701257470 0 localhost 0
+28 8 UC02_DeleteTicket 1  0 0
+28 2 UC02_DeleteTicket 1 1701257470 0 p 0 0
+28 4 UC05_Itinerary 1 1701257471 0 UC05_Itinerary localhost 0 1
+28 0 UC05_Itinerary 1 1701257471 0 localhost 0
+28 8 UC05_Itinerary 1  0 0
+28 2 UC05_Itinerary 1 1701257471 0 p 0 0
+28 4 UC04_Login 2 1701257472 0 UC04_Login localhost 0 1
+28 0 UC04_Login 2 1701257472 0 localhost 0
+28 8 UC04_Login 2  0 0
+28 2 UC04_Login 2 1701257472 0 p 0 0
+28 4 UC03_SignUp 2 1701257473 0 UC03_SignUp localhost 0 1
+28 0 UC03_SignUp 2 1701257473 0 localhost 0
+28 8 UC03_SignUp 2  0 0
+28 2 UC03_SignUp 2 1701257473 0 p 0 0
+28 4 UC01_BuyTicket 2 1701257474 0 UC01_BuyTicket localhost 0 1
+28 0 UC01_BuyTicket 2 1701257474 0 localhost 0
+28 8 UC01_BuyTicket 2  0 0
+28 2 UC01_BuyTicket 2 1701257474 0 p 0 0
+28 4 UC06_SearchFlights 2 1701257475 0 UC06_SearchFlights localhost 0 1
+28 0 UC06_SearchFlights 2 1701257475 0 localhost 0
+28 8 UC06_SearchFlights 2  0 0
+28 2 UC06_SearchFlights 2 1701257475 0 p 0 0
+28 1 UC03_SignUp 1 1701258676 0 2
+28 1 UC01_BuyTicket 1 1701258676 0 2
+28 1 UC06_SearchFlights 1 1701258678 0 2
+28 1 UC02_DeleteTicket 1 1701258679 0 2
+28 1 UC05_Itinerary 1 1701258680 0 2
+28 1 UC03_SignUp 2 1701258682 0 2
+28 1 UC04_Login 1 1701258684 0 2
+28 1 UC01_BuyTicket 2 1701258684 0 2
+28 1 UC06_SearchFlights 2 1701258684 0 2
+28 1 UC04_Login 2 1701258688 0 2
+28 12 1701258688 1 1701258688 0 1701258688
