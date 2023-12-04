@@ -1,2 +1,0 @@
-[Hosts]
-localhost=d:\webtourslr\results\searchmaxresults\localhost_1.eve
